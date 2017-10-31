@@ -8,7 +8,7 @@ Your favorite fruit: Banana
 
 Your favorite city: Brno
 
-Your favorite vegetable: ...
+Your favorite vegetable: pizza
 
 Your favorite color: ...
 
