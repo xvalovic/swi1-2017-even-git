@@ -3,7 +3,7 @@ This line is changed.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: bannana
 
 Your favorite city: ...
 
