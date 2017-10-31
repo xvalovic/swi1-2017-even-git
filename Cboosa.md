@@ -2,15 +2,15 @@ Please DO NOT delete me (this line)...
 
 Please change me somehow.
 
-Your favorite fruit: ...
+Your favorite fruit: Banana I guess.
 
 Your favorite city: Helsinki
 
-Your favorite vegetable: ...
+Your favorite vegetable: Tomato.
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: Chocolate.
 
 Your favorite season: Summer.
 
