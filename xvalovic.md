@@ -5,7 +5,7 @@ This line is changed.
 
 Your favorite fruit: bannana
 
-Your favorite city: ...
+Your favorite city: Brno (what else?)
 
 Your favorite vegetable: ...
 
