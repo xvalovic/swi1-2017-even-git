@@ -9,7 +9,7 @@ Your favorite city: Brno (what else?)
 
 Your favorite vegetable: carrot
 
-Your favorite color: ...
+Your favorite color: blue
 
 Your favorite icecream: ...
 
