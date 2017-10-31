@@ -11,7 +11,7 @@ Your favorite vegetable: Tomato
 
 Your favorite color: Green
 
-Your favorite icecream: ...
+Your favorite icecream: Peanut flavour
 
 Your favorite season: ...
 
