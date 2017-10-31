@@ -1,8 +1,6 @@
-Please DO NOT delete me (this line) and add 3 dots at the end
+Please delete me (this line).
 
-Please change me somehow.
-
-
+Please change me-ok .
 
 Your favorite fruit: ...
 
@@ -15,7 +13,6 @@ Your favorite color: ...
 Your favorite icecream: ...
 
 Your favorite season: ...
-
 
 (after this, please follow the instructions in README.md)
 
