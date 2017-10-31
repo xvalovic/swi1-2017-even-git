@@ -7,7 +7,7 @@ Your favorite fruit: Apple
 
 Your favorite city: Brno
 
-Your favorite vegetable: ...
+Your favorite vegetable: Tomato
 
 Your favorite color: ...
 
