@@ -1,7 +1,7 @@
-Please DO NOT delete me (this line) and add 3 dots at the end
-
+Please DO NOT delete me (this line) and add 3 dots at the end ...  
+  
 Please change me somehow.
-
+:wq
 
 
 Your favorite fruit: ...
