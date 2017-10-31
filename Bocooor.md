@@ -1,6 +1,6 @@
 Please DO NOT delete me (this line) and add 3 dots at the end...	
 
-Please change me somehow.
+Please change me somehow. OK
 
 
 
@@ -8,7 +8,7 @@ Your favorite fruit: ...
 
 Your favorite city: ...
 
-Your favorite vegetable: ...
+Your favorite vegetable: carrot
 
 Your favorite color: ...
 
