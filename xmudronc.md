@@ -13,7 +13,7 @@ Your favorite color: Green
 
 Your favorite icecream: Peanut flavour
 
-Your favorite season: ...
+Your favorite season: Winter
 
 
 (after this, please follow the instructions in README.md)
