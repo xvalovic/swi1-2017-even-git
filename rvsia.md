@@ -11,7 +11,7 @@ Your favorite vegetable: strawberry
 
 Your favorite color: green
 
-Your favorite icecream: ...
+Your favorite icecream: cookies
 
 Your favorite season: ...
 
