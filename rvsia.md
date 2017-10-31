@@ -9,7 +9,7 @@ Your favorite city: New York
 
 Your favorite vegetable: strawberry
 
-Your favorite color: ...
+Your favorite color: green
 
 Your favorite icecream: ...
 
