@@ -7,7 +7,7 @@ Your favorite fruit: apple
 
 Your favorite city: New York
 
-Your favorite vegetable: ...
+Your favorite vegetable: strawberry
 
 Your favorite color: ...
 
