@@ -14,7 +14,7 @@ Your favorite color: black
 
 Your favorite icecream: hazelnut
 
-Your favorite season: ...
+Your favorite season: autumn
 
 
 (after this, please follow the instructions in README.md)
