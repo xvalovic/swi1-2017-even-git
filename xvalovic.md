@@ -7,7 +7,7 @@ Your favorite fruit: bannana
 
 Your favorite city: Brno (what else?)
 
-Your favorite vegetable: ...
+Your favorite vegetable: carrot
 
 Your favorite color: ...
 
