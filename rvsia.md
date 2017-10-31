@@ -13,7 +13,7 @@ Your favorite color: green
 
 Your favorite icecream: cookies
 
-Your favorite season: ...
+Your favorite season: summer
 
 
 (after this, please follow the instructions in README.md)
