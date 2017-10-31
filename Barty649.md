@@ -12,7 +12,7 @@ Your favorite vegetable: pizza
 
 Your favorite color: black
 
-Your favorite icecream: ...
+Your favorite icecream: hazelnut
 
 Your favorite season: ...
 
