@@ -6,7 +6,7 @@ Your favorite fruit: apple
 
 Your favorite city:New York 
 
-Your favorite vegetable: ...
+Your favorite vegetable: tomato: 
 
 Your favorite color: ...
 
