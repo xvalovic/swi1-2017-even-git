@@ -1,14 +1,14 @@
 Please DO NOT delete me (this line) and add 3 dots at the end ...  
   
-Please change me somehow.
-:wq
+Please change me somehow. !!!
 
 
-Your favorite fruit: ...
+
+Your favorite fruit: banana
 
 Your favorite city: ...
 
-Your favorite vegetable: ...
+Your favorite vegetable: carrot
 
 Your favorite color: ...
 
