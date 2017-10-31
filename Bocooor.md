@@ -4,9 +4,9 @@ Please change me somehow. OK
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: orange
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: carrot
 
