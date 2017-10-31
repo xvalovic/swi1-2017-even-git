@@ -5,7 +5,7 @@ Please don't change me .
 
 Your favorite fruit: Apple
 
-Your favorite city: ...
+Your favorite city: Brno
 
 Your favorite vegetable: ...
 
