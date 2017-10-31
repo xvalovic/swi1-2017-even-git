@@ -6,7 +6,7 @@ Please change me somehow - ok I've changed you.
 
 Your favorite fruit: Banana
 
-Your favorite city: ...
+Your favorite city: Brno
 
 Your favorite vegetable: ...
 
