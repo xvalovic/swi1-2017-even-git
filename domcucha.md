@@ -13,7 +13,7 @@ Your favorite color: ...
 
 Your favorite icecream: youghurt
 
-Your favorite season: ...
+Your favorite season: autumn
 
 
 (after this, please follow the instructions in README.md)
