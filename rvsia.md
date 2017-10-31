@@ -10,7 +10,7 @@ Your favorite city: Helsinki
 
 Your favorite vegetable: strawberry
 
-Your favorite color: ...
+Your favorite color: green
 
 Your favorite icecream: cookies
 
