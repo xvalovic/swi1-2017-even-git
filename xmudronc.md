@@ -3,7 +3,7 @@ Please don't change me .
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Apple
 
 Your favorite city: ...
 
