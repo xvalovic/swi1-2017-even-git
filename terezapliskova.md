@@ -6,7 +6,7 @@ Please change me  - changed
 
 Your favorite fruit: apple 
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: cucumber 
 
