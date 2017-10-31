@@ -7,7 +7,7 @@ Oh, you changed so much since we met first time
 
 Your favorite fruit: banana
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: cucumber
 
