@@ -12,7 +12,7 @@ Your favorite vegetable: Tomato
 
 Your favorite color: Blue
 
-Your favorite icecream: ...
+Your favorite icecream: Lemon
 
 Your favorite season: ...
 
