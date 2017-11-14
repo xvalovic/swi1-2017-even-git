@@ -4,7 +4,7 @@ PleaseChangeMeSomehow.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Banana
 
 Your favorite city: ...
 
