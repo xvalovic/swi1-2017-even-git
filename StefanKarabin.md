@@ -6,7 +6,7 @@ PleaseChangeMeSomehow.
 
 Your favorite fruit: Banana
 
-Your favorite city: Michalovce 
+Your favorite city: Helsinki 
 
 Your favorite vegetable: Tomato
 
