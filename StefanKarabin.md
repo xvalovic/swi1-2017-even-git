@@ -8,7 +8,7 @@ Your favorite fruit: Banana
 
 Your favorite city: Michalovce 
 
-Your favorite vegetable: ...
+Your favorite vegetable: Tomato
 
 Your favorite color: ...
 
