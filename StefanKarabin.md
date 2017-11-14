@@ -14,7 +14,7 @@ Your favorite color: Blue
 
 Your favorite icecream: Lemon
 
-Your favorite season: ...
+Your favorite season: Winter
 
 
 (after this, please follow the instructions in README.md)
