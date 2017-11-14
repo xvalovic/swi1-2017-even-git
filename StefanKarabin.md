@@ -10,7 +10,7 @@ Your favorite city: Michalovce
 
 Your favorite vegetable: Tomato
 
-Your favorite color: ...
+Your favorite color: Blue
 
 Your favorite icecream: ...
 
