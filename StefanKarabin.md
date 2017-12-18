@@ -1,20 +1,20 @@
-Please DO NOT delete me (this line) and add 3 dots at the end
+Please DO NOT delete me (this line)...
 
-Please change me somehow.
+PleaseChangeMeSomehow.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Banana
 
-Your favorite city: ...
+Your favorite city: Helsinki 
 
-Your favorite vegetable: ...
+Your favorite vegetable: Tomato
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: Lemon
 
-Your favorite season: ...
+Your favorite season: Winter
 
 
 (after this, please follow the instructions in README.md)
