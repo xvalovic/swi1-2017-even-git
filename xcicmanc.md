@@ -1,21 +1,18 @@
-Please DO NOT delete me (this line) and add 3 dots at the end
+Please delete me (this line)...
 
-Please change me somehow.
+Please change me-ok .
 
+Your favorite fruit: apple
 
+Your favorite city:New York 
 
-Your favorite fruit: ...
-
-Your favorite city: ...
-
-Your favorite vegetable: ...
+Your favorite vegetable: tomato: 
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: chocolate
 
-Your favorite season: ...
-
+Your favorite season: summer
 
 (after this, please follow the instructions in README.md)
 
