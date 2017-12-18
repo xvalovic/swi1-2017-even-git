@@ -1,18 +1,19 @@
-Please DO NOT delete me (this line) and add 3 dots at the end
+
 
 Please change me somehow.
 
 
 
-Your favorite fruit: ...
 
-Your favorite city: ...
+Your favorite fruit: banana
 
-Your favorite vegetable: ...
+Your favorite city: Helsinki 
+
+Your favorite vegetable: pepper.
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: chocolate...
 
 Your favorite season: ...
 
